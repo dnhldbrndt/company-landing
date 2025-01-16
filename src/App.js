@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { ChevronRight, Code, Smartphone, Globe, Github, Twitter, Linkedin, Mail } from 'lucide-react';
+import { ChevronRight, Code, Smartphone, Globe, Mail } from 'lucide-react';
 
 const CompanyLanding = () => {
   const [scrollPosition, setScrollPosition] = useState(0);
